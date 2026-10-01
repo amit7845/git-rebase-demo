@@ -1,6 +1,6 @@
 # Git Rebase Demo
 
-Application message: Feature change 1
+Application message: Feature change after rebase
 
 Feature documentation added.
 
