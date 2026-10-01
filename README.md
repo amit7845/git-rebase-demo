@@ -1,3 +1,3 @@
 # Git Rebase Demo
 
-Application message: Original
+Application message: Feature change 1
